@@ -26,7 +26,8 @@ happens in group stays in group) and logistics (when, how long, travel money);
 
 
 
-<hr>
+<hr style="page-break-after: always;">
+
 
 ## Activities For Youth Group 1
 
@@ -49,7 +50,8 @@ _We will also have a discussion about the kinds of worries that youth with HIV/A
 
 
 
-<hr>
+<hr style="page-break-after: always;">
+
 
 ## 2. Getting to know each other
 
@@ -67,7 +69,8 @@ _We will start by getting to know each other._
   
 
 
-<hr>
+<hr style="page-break-after: always;">
+
 
 ## 3. Introduction to group activities
 
@@ -124,6 +127,8 @@ discuss, in general, their personal experiences with a caregiver or friend but n
 • The youth cannot tell anyone (including their caregiver or other support adults) what other youth have talked about in the group. To do so would violate their promise of confidentiality.
 ```
 
+<hr style="page-break-after: always;">
+
 ### This picture reminds us about confidentiality.
 
 
@@ -132,7 +137,7 @@ discuss, in general, their personal experiences with a caregiver or friend but n
 - To have big ears (listening) and a little mouth
 - What is said in group stays in group
 
-
+<hr style="page-break-after: always;">
 
 
 ```
@@ -140,7 +145,7 @@ The group leaders will only discuss the youth with their caregiver if there is a
 ```
 
 
-Do we all agree to the promise of confidentiality?_
+*Do we all agree to the promise of confidentiality?*
 
 - Please give the youth and caregivers/other support person the confidentiality 
     agreement and have them review and sign (attached).
@@ -150,7 +155,8 @@ their usual room (see script at the end of Youth Group 1 for caregiver only dial
 
 
 
-<hr>
+<hr style="page-break-after: always;">
+
 
 ## 4. New topic: Common mental health symptoms
 
@@ -169,7 +175,7 @@ in everyone’s life)?_
 
 _Here are some worries we have learned from other youth living with HIV.  I am going to name 
 some of these as they are listed on your Youth Group Handout 2. Can anyone think of worries 
-that other youth may have?  Please tell us, and we will add to the list. _
+that other youth may have?  Please tell us, and we will add to the list._
 
 ```
 • Use handout with lists split down middle as shown below. 
@@ -185,7 +191,7 @@ Worry I might die
 Worry about others knowing I have HIV
 
 
-GROUP ACTIVITY- Group members get into groups of 2-3 and fill out some of the things youth (in general) worry about when living with HIV.  Ask the group to just make a list on the left side of the handout. Ask one group to report what they wrote, then other groups can add any worries they wrote down that were not included on others’ lists.  Group leaders list these worries on a whiteboard/flip chart.
+*GROUP ACTIVITY* - Group members get into groups of 2-3 and fill out some of the things youth (in general) worry about when living with HIV.  Ask the group to just make a list on the left side of the handout. Ask one group to report what they wrote, then other groups can add any worries they wrote down that were not included on others’ lists.  Group leaders list these worries on a whiteboard/flip chart.
 
 - Be sure to ask the group members to make a list of what people might worry about in the situation of HIV/AIDS. This is not a time to ask group members for a personal response--- this is phrased as “ _What do you think other youth might worry about.”_
 
@@ -234,7 +240,7 @@ learning about and living with HIV;
 
 
 
-<hr>
+<hr style="page-break-after: always;">
 
 ## 5. Homework assigned
 
@@ -251,9 +257,8 @@ _Once you name the worry, try to remember if you were able to do anything to fee
 
 
 
-<hr>
-
-### Fun time 
+<hr style="page-break-after: always;">
+### Fun time
 
 <p style="text-align: center;">(10 minutes)</p>
 <p style="text-align: center;">Reunion with caregiver for joining a fun activity to be determined by group leaders.</p>
