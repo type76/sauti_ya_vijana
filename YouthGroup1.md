@@ -5,6 +5,8 @@
 
 ![pushmepullyou donkey](images/2headed.png)
 
+<hr style="page-break-after: always;">
+
 ## Goals for Group Leaders
 
 
@@ -22,13 +24,7 @@ happens in group stays in group) and logistics (when, how long, travel money);
 6. How group members can help each other by sharing and providing support.
 
 
-
-
-
-
 <hr style="page-break-after: always;">
-
-
 ## Activities For Youth Group 1
 
 <p style="text-align: center;">(Jointly with Caregivers)</p>
@@ -156,8 +152,6 @@ their usual room (see script at the end of Youth Group 1 for caregiver only dial
 
 
 <hr style="page-break-after: always;">
-
-
 ## 4. New topic: Common mental health symptoms
 
 ### stress and worries for youth living with HIV/AIDS 
@@ -241,7 +235,6 @@ learning about and living with HIV;
 
 
 <hr style="page-break-after: always;">
-
 ## 5. Homework assigned
 
 <p style="text-align: center;">(10 minutes)</p>
